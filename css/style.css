@@ -34,7 +34,7 @@ body {
     width:120px;
     height:140px;
     margin:0 auto;
-    border-radius:50%;
+    border-radius:20%;
     overflow:hidden;
 }
 .card .box .img img {
